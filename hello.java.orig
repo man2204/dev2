@@ -1,6 +1,6 @@
-{  # dev2
+{ # dev1
 # include<iostream.h>
-# include<conio.h>  #dev2
+# include<conio.h>  #dev1
 <<<<<<< HEAD
         print("jai ho)
         print("shree ram")
